@@ -12,3 +12,7 @@ Instrucciones: El juego del amigo secreto permite sortear parejas de amigos dent
 
 
 Se Cargan los Archivos del Juego
+se prueba el juego en la siguiente direccion
+
+https://joacolillo.github.io/Desafio-Amigo-Secreto/
+

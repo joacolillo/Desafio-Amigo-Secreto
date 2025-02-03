@@ -9,3 +9,6 @@ Instrucciones: El juego del amigo secreto permite sortear parejas de amigos dent
     1. Los amigos se ingresan por nombre
     2. no tolera iungresos vacios
     3. el sorteo se hace con al menos 3 nombres
+
+
+Se Cargan los Archivos del Juego
